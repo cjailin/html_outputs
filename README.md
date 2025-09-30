@@ -8,6 +8,9 @@ This work was conducted at Université Paris-Saclay, CentraleSupélec, ENS Paris
 [(NH residuals forces)](https://cjailin.github.io/html_outputs/3D_PANN_learning/NH_residual_forces.html)
 [(PANN residuals forces)](https://cjailin.github.io/html_outputs/3D_PANN_learning/PANN_residual_forces.html)
 
-
+------------
 
 [(Displacement_field_1)](https://cjailin.github.io/html_outputs/Displacement_field/Displacement_step_1.html)
+[(Displacement_field_2)](https://cjailin.github.io/html_outputs/Displacement_field/Displacement_step_2.html)
+[(Displacement_field_3)](https://cjailin.github.io/html_outputs/Displacement_field/Displacement_step_3.html)
+[(Displacement_field_4)](https://cjailin.github.io/html_outputs/Displacement_field/Displacement_step_4.html)
