@@ -17,4 +17,5 @@ This work was conducted at Université Paris-Saclay, CentraleSupélec, ENS Paris
 
 ------------
 [(Embedded_space)](https://cjailin.github.io/html_outputs/energy_scatter_interactive.html)
+[(Embedded_space 2 vectors)](https://cjailin.github.io/html_outputs/energy_scatter_2sliders.html)
 
