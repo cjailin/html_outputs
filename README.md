@@ -14,3 +14,7 @@ This work was conducted at Université Paris-Saclay, CentraleSupélec, ENS Paris
 [(Displacement_field_2)](https://cjailin.github.io/html_outputs/Displacement_field/Displacement_step_2.html)
 [(Displacement_field_3)](https://cjailin.github.io/html_outputs/Displacement_field/Displacement_step_3.html)
 [(Displacement_field_4)](https://cjailin.github.io/html_outputs/Displacement_field/Displacement_step_4.html)
+
+------------
+[(Embedded_space)](https://cjailin.github.io/html_outputs/energy_scatter_interactive.html)
+
